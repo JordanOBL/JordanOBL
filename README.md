@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jordan Williams</h1>
 <h3 align="center">A Self Taught Web Developer</h3>
 
-- 🔭 I’m currently working on [Reddit-Xtreme](redditxtreme.netlify.app)
+- 🔭 I’m currently working on Reddit-Xtreme [(redditxtreme.netlify.app)]
 
 - 🌱 I’m currently learning **Codecademys Front End Course**
 
