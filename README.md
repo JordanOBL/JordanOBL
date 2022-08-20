@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on Reddit-Xtreme [(redditxtreme.netlify.app)]
 
-- 🌱 I’m currently learning **Codecademys Front End Course**
-
-- 📫 How to reach me **jordanwwilliams418@gmail.com**
+- 📫 How to reach me **jwysong116@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
