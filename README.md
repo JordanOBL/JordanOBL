@@ -2,11 +2,24 @@
 <h3 align="center">Full Stack Software Engineer</h3>
 <h3 align="center"><a href='https://jordanwilliams.io'>JordanWilliams.io</a></h3>
 
-- 🔭 I’m currently working on radiQL (a graphQL schema/resolver generator and visualizer)
+<h3 align="center"> 🥾🧗🏼‍♂️🤙 I’m currently working on a React Native App for outdoor enthusiests who need to be kept accountable for productivity. Stay tuned!</h3>
 
-- 📫 How to reach me **jwysong116@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<br>
+<h2 align="left">Work:</h2>
+<h3 align="left"><a href="https://radiql.herokuapp.com" target='_blank' >Radiql</a> - <i> GraphQL visualizer / migration tool</i></h3>
+<h3 align="left"><a href='https://twinsdimension.com'>Twinsdimension</a> -<i> Ecommerce</i></h3>
+<br>
+
+
+<h2 align="left">Connect with me:</h2>
+
+📫 How to reach me:
+-  **jwysong116@gmail.com**
+-  **https://jordanwilliams.io**
+-  **https://linkedin.com/in/jordanwilliamsio**
+<br>
+
 <p align="left">
 </p>
 
