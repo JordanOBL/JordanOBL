@@ -8,7 +8,7 @@
 <br>
 <h2 align="left">Work:</h2>
 <h3 align="left"><a href="https://radiql.herokuapp.com" target='_blank' >Radiql</a> - <i> GraphQL visualizer / migration tool</i></h3>
-<h3 align="left"><a href='https://twinsdimension.com'>Twinsdimension</a> -<i> Ecommerce</i></h3>
+<h3 align="left"><a href='https://twinsdimension.herokuapp.com'>Twinsdimension</a> -<i> Ecommerce</i></h3>
 <br>
 
 
