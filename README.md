@@ -5,14 +5,6 @@
 <h3 align="center"> 🥾🧗🏼‍♂️🤙 I’m currently working on a React Native App for outdoor enthusiests who need to be kept accountable for productivity. Stay tuned!</h3>
 
 
-<br>
-<h2 align="left">Work:</h2>
-<h3 align="left"><a href="https://radiql.herokuapp.com" target='_blank' >Radiql</a> - <i> GraphQL visualizer / migration tool</i></h3>
-<h3 align="left"><a href='https://twinsdimension.herokuapp.com'>Twinsdimension</a> -<i> Ecommerce</i></h3>
-<h3 align="left"><a href='https://lolaslab.beyalikhari.com'>Lola's Lab - Beya Likhari</a> -<i> Artist</i></h3>
-<br>
-
-
 <h2 align="left">Connect with me:</h2>
 
 📫 How to reach me:
