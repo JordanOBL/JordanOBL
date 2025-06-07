@@ -8,7 +8,7 @@
 <h2 align="left">Connect with me:</h2>
 
 📫 How to reach me:
--  **jwysong116@gmail.com**
+-  **jordanwilliams.dev@gmail.com**
 -  **https://jordanwilliams.io**
 -  **https://linkedin.com/in/jordanwilliamsio**
 <br>
